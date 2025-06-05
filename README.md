@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rick and Morty Character Explorer
 
 This is a React application that displays characters from the Rick and Morty universe using the [Rick and Morty API](https://rickandmortyapi.com/).
@@ -38,3 +39,7 @@ This application is deployed on Vercel. You can access it at: [Add your Vercel d
 ## API Documentation
 
 The application uses the Rick and Morty API. For more information about the API, visit: https://rickandmortyapi.com/documentation
+=======
+# Rick-and-Morty-Character-Explorer
+A multiverse character database built with React. Browse, filter, sort, and paginate characters from the Rick and Morty API with a clean, dynamic UI.
+>>>>>>> db488ce6745c501b93447e76da12de43d421d7a7
