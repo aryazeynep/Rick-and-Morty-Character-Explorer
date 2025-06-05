@@ -1,3 +1,10 @@
+# Rick and Morty App
+
+## Live Demo
+[View the live demo](https://aryazeynep.github.io/rick-and-morty-app/)
+
+
+
 <<<<<<< HEAD
 # Rick and Morty Character Explorer
 
