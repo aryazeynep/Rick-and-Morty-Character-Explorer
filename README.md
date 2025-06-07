@@ -1,52 +1,75 @@
-# Rick and Morty App
+# Rick and Morty Character Explorer
 
 ## Live Demo
 [View the live demo](https://aryazeynep.github.io/rick-and-morty-app/)
 
+A modern web application that allows users to explore characters from the Rick and Morty universe. Built with React and Material-UI, this application provides a seamless experience for browsing, filtering, and discovering characters from the popular animated series.
 
+## 🌟 Features
 
-<<<<<<< HEAD
-# Rick and Morty Character Explorer
+- **Character Browsing**: View all characters from the Rick and Morty universe
+- **Advanced Filtering**: Filter characters by status, species, and gender
+- **Responsive Design**: Fully responsive layout that works on all devices
+- **Modern UI**: Clean and intuitive user interface built with Material-UI
+- **Real-time Search**: Instant search functionality for quick character lookup
+- **Pagination**: Easy navigation through the character database
+- **Error Handling**: User-friendly error messages
 
-This is a React application that displays characters from the Rick and Morty universe using the [Rick and Morty API](https://rickandmortyapi.com/).
+## 🛠️ Technologies Used
 
-## Features
+- React 19
+- Material-UI 7
+- Axios for API requests
+- React Query for data fetching and caching
+- Vite for fast development and building
+- ESLint for code quality
 
-- Display characters in a filterable and sortable table
-- Pagination support
-- Detailed character view
-- Multiple filter options
-- Responsive design
-- Error handling
+## 📦 Installation
 
-## Technologies Used
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/rick-and-morty-app.git
+   ```
 
-- React
-- Material-UI
-- Axios
-- React Query
-- Vite
+2. Navigate to the project directory:
+   ```bash
+   cd rick-and-morty-app
+   ```
 
-## Setup Instructions
-
-1. Clone the repository
-2. Install dependencies:
+3. Install dependencies:
    ```bash
    npm install
    ```
-3. Start the development server:
+
+4. Start the development server:
    ```bash
    npm run dev
    ```
 
-## Deployment
+## 🔧 Available Scripts
 
-This application is deployed on Vercel. You can access it at: [Add your Vercel deployment URL here]
+- `npm run dev` - Start the development server
+- `npm run build` - Build the project for production
+- `npm run preview` - Preview the production build locally
+- `npm run lint` - Run ESLint to check code quality
 
-## API Documentation
+## 📚 API Integration
 
-The application uses the Rick and Morty API. For more information about the API, visit: https://rickandmortyapi.com/documentation
-=======
-# Rick-and-Morty-Character-Explorer
-A multiverse character database built with React. Browse, filter, sort, and paginate characters from the Rick and Morty API with a clean, dynamic UI.
->>>>>>> db488ce6745c501b93447e76da12de43d421d7a7
+This project uses the [Rick and Morty API](https://rickandmortyapi.com/) to fetch character data. The API is free to use and doesn't require authentication.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👥 Author
+
+- GitHub: [@aryazeynep](https://github.com/aryazeynep)
+
+## 🙏 Acknowledgments
+
+- Thanks to the Rick and Morty API team for providing the data
+- Special thanks to the React and Material-UI communities for their excellent documentation
